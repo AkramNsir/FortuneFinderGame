@@ -63,10 +63,10 @@ Here are some screenshots of FortuneFinderGame project:
 ![Help Page](res/screenshots/helpPage.png)
 
 ### Game Satrt 
-![Game Start](res/screenshots/startPage.png)
+![Game Start](res/screenshots/startGame.png)
 
 ### Game End 
-![Game End](res/screenshots/endPage.png)
+![Game End](res/screenshots/endGame.png)
 
 ## Technologies Used
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
