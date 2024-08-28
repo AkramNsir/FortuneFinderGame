@@ -57,16 +57,16 @@ Here are some screenshots of FortuneFinderGame project:
 ![Land Page](res/screenshots/landPage.png)
 
 ### Scores Page
-![Scores Page](res/screenshots/scoresPage.png)
+![Scores Page](res/screenshots/ScoresPage.png)
 
 ### Help Page 
 ![Help Page](res/screenshots/helpPage.png)
 
 ### Game Satrt 
-![Game Start](res/screenshots/gameStart.png)
+![Game Start](res/screenshots/startPage.png)
 
 ### Game End 
-![Game End](res/screenshots/gameEnd.png)
+![Game End](res/screenshots/endPage.png)
 
 ## Technologies Used
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
