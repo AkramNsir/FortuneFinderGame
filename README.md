@@ -29,24 +29,23 @@ To set up the Fortune Finder game locally, follow these steps:
   2. Ensure you have Java installed on your system:
   3. Go to .java files location:   
    ```
-  cd src/application
+  cd src
   ```
 
   4. Compile the Java files:
   ```
-  javac -d ..\..\bin\ *.java
+  javac -encoding UTF-8 -d ..\bin tile/*.java object/*.java main/*.java entity/*.java
   ```
 
 ## Usage
   1. Go back to the main directory:
   ```
   cd ..
-  cd ..
   ```
 
   2. Run the game:
   ```
-  java -cp bin game.Main
+  java -cp bin Main.Main
   ```
 
   3. Gameplay: Use the keyboard to control your character, explore the game world, collect keys, and solve puzzles to find the treasure.
@@ -54,14 +53,20 @@ To set up the Fortune Finder game locally, follow these steps:
 ## Screenshots 
 Here are some screenshots of FortuneFinderGame project:
 
-### Game Start
+### Land Page
+![Land Page](res/screenshots/landPage.png)
+
+### Scores Page
+![Scores Page](res/screenshots/scoresPage.png)
+
+### Help Page 
+![Help Page](res/screenshots/helpPage.png)
+
+### Game Satrt 
 ![Game Start](res/screenshots/gameStart.png)
 
-### Success
-![Success](res/screenshots/success.png)
-
-### Failure 
-![Failure](res/screenshots/failure.png)
+### Game End 
+![Game End](res/screenshots/gameEnd.png)
 
 ## Technologies Used
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
